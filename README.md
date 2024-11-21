@@ -11,20 +11,20 @@ I love exploring new technologies, building awesome projects, and sharing my kno
 
 ---
 
-## 🔗 Connect with Me  
+## 🔗 **Connect with Me**  
 
-<div align="left">  
-<div align="center">  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)  
-</div>  
+<div align="center">
+
+<a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>  
+<a href="https://youtube.com" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>  
+<a href="https://twitter.com" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>  
+<a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
+
 </div>  
 
 ---
 
-## ⚙️ Skills & Tools  
+## ⚙️ **Skills & Tools**  
 
 <div align="center">  
 <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>  
@@ -40,7 +40,7 @@ I love exploring new technologies, building awesome projects, and sharing my kno
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 **GitHub Stats**  
 
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>  
@@ -50,7 +50,9 @@ I love exploring new technologies, building awesome projects, and sharing my kno
 
 ---
 
-## 🌟 Featured Projects  
+## 🌟 **Featured Projects**  
+
+<div align="center">
 
 | Project Name | Description | Technology Stack |  
 |--------------|-------------|------------------|  
@@ -58,9 +60,11 @@ I love exploring new technologies, building awesome projects, and sharing my kno
 | [Project 2](https://github.com) | Another cool project description. | JavaScript, React, Tailwind |  
 | [Project 3](https://github.com) | Yet another amazing project! | C++, Linux, Redis |  
 
+</div>  
+
 ---
 
-## ✨ Fun Extras  
+## ✨ **Fun Extras**  
 
 <div align="center">
 
