@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+World+of+Code!)  
+![Banner](./1698256493634.jpeg)  
 
 # 🌟 Welcome to My GitHub Profile!  
 
