@@ -1,11 +1,13 @@
 <div align="center">
 
-# 🌟 Welcome to My GitHub Profile!  
-
 ![Banner](https://via.placeholder.com/1200x300?text=Welcome+to+My+World+of+Code!)  
 
-### Hi there! 👋 I'm **[Your Name]**  
-A passionate **[Your Title/Profession]** with over **[Your Experience Duration]** of coding experience. I love exploring new technologies, solving problems, and sharing knowledge.  
+# 🌟 Welcome to My GitHub Profile!  
+
+Hi there! 👋 I'm **[Your Name]**, a passionate **[Your Title]** with over **[Your Experience Duration]** of coding experience.  
+I love exploring new technologies, building awesome projects, and sharing my knowledge with others.
+
+</div>  
 
 ---
 
