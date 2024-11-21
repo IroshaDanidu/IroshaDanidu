@@ -81,7 +81,19 @@ I have a knack for crafting efficient, scalable, and user-friendly applications.
 
 <div align="center">
 
-📂 [View My Portfolio](https://example.com)  
-📧 [Email Me](mailto:your-email@example.com)  
+## 🌟 **Get in Touch**
+
+<a href="https://example.com/portfolio" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Portfolio-%231E90FF.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Portfolio" />
+</a>
+
+<a href="https://example.com/your-cv.pdf" download>
+  <img src="https://img.shields.io/badge/Download%20CV-%23FF8C00.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
+</a>
+
+<a href="mailto:your-email@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email%20Me-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+</a>
 
 </div>
+
