@@ -66,19 +66,6 @@ I have a knack for crafting efficient, scalable, and user-friendly applications.
 
 ---
 
-## 🌟 **Featured Projects**  
-
-<div align="center">
-
-| Project Name | Description | Technology Stack |  
-|--------------|-------------|------------------|  
-| [E-Commerce Platform](https://github.com) | A feature-rich e-commerce platform. | Laravel, Vue.js, MySQL |  
-| [Blog System](https://github.com) | A powerful CMS for blogs. | Django, Bootstrap, PostgreSQL |  
-| [Portfolio Website](https://github.com) | A responsive and dynamic portfolio website. | TailwindCSS, Laravel, Heroku |  
-
-</div>  
-
----
 
 ## ✨ **Fun Extras**  
 
